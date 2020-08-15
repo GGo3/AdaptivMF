@@ -15,6 +15,7 @@ body {
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 14px;
 	line-height: 16px;
+	min-width: 320px;
 }
 .header {
 	background-color: #F2F2F2;
