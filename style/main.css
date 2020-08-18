@@ -444,7 +444,7 @@ input {
 	}
 	
 }
-@media (min-width: 1045px) {
+@media (min-width: 1075px) {
 	.content__item-wrapper:last-child {
 		display: block;
 	}
